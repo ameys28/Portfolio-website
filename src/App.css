@@ -375,4 +375,7 @@ footer ul li a{
     height: 30px;
     width: 30px;
   }
+  .footer {
+    margin-top: 50px;
+  }
 }
