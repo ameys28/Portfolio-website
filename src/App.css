@@ -370,12 +370,11 @@ footer ul li a{
   }
   .foot-head {
     font-size: 35px;
+    margin-top: 200px;
   }
   .icon {
     height: 30px;
     width: 30px;
   }
-  .footer {
-    margin-top: 300px;
-  }
+  
 }
