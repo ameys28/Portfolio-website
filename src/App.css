@@ -206,7 +206,7 @@ span {
 .projects {
   display: flex;
   align-items: center;
-  margin-left: -70px;
+  margin-left: 40px;
 }
 .foot-head {
   text-align: center;
