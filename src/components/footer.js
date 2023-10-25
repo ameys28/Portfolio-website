@@ -2,7 +2,7 @@ import Github from "../img/image3.png";
 import Linkedin from "../img/image4.png";
 export default function Footer(){
   return (
-    <footer>
+    <footer className="footer">
 <h1 className="foot-head">Connect with Me</h1>
 <ul>
 <li>
