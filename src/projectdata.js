@@ -24,8 +24,8 @@ export default [
     description:
       "Personal website made to showcase skills and projects.",
     image: "./images/portfolio.png",
-    website: "https://ameys28.github.io/Personal-web/",
-    github: "https://github.com/ameys28/Personal-web.git",
+    website: "https://portfolio-website-psi-jet.vercel.app/",
+    github: "https://github.com/ameys28/Portfolio-website.git",
     tools: ["React.js", "HTML5", "CSS"],
     
   },
