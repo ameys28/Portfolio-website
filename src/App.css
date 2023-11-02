@@ -243,10 +243,17 @@ footer ul li a {
     width: 350px;
   }
   .project-image {
-    height: 368px;
-    width: 658px;
-    margin: 70px;
-  }
+    height: 344px;
+    width: 460px;
+    margin: 55px;
+}
+.tools-used {
+  padding: 0%;
+}
+.tools-used li {
+  padding: 0 16px;
+  margin: 8px 8px;
+}
 }
 
 @media only screen and (max-width: 800px) {
