@@ -144,15 +144,18 @@ button {
 
 .tools-used {
   list-style: none;
-  margin: 0;
-  padding: 0 25px;
+ padding: 0%;
   border-radius: 32px;
-  background: #424243;
+  
 }
 .tools-used li {
   display: inline-block;
-  padding: 5px 10px;
-  color: #d6d7da;
+  margin: 0 0.4rem;
+  padding: 0 25px;
+  border-radius: 32px;
+  color: #fbfcfe;
+  background-color: #85858e;
+
   font-weight: bold;
 }
 li:hover {
@@ -361,6 +364,13 @@ footer ul li a {
   button .arrow {
     height: 5px;
     width: 15px;
+  }
+  .tools-used {
+    padding: 0%;
+  }
+  .tools-used li {
+    padding: 0 16px;
+    margin: 5px 5px;
   }
 
   nav li a {
