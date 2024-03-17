@@ -1,6 +1,15 @@
 
 export default [
   {
+    name: "Tic-tac-toe Game",
+    description:
+      "A tic-tac-toe game made using javascript",
+    image: "./images/tic-tac-toe.png",
+    website: "https://ameys28.github.io/Tic-Tac-Toe-game/",
+    github: "https://github.com/ameys28/Tic-Tac-Toe-game.git",
+    tools: ["HTML5", "CSS", "Javasvript"],
+  },
+  {
     name: "To-do List",
     description:
       "A simple to-do list application which allows users to manage their tasks effectively by adding, removing, and editing tasks.",
@@ -17,16 +26,6 @@ export default [
     website: "https://airbnb-two-drab.vercel.app/",
     github: "https://github.com/ameys28/airbnb.git",
     tools: ["React.js"],
-  },
-  {
-    name: "Spotify",
-    description:
-      "A Spotify clone using javascript and html",
-    image: "./images/spotify.png",
-    website: "https://ameys28.github.io/Spotify-clone/",
-    github: "https://github.com/ameys28/Spotify-clone.git",
-    tools: ["HTML5", "CSS", "Javascript"],
-    
   },
   {
     name: "Personal Website",
