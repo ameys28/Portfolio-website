@@ -147,10 +147,11 @@ button {
  padding: 0%;
   border-radius: 32px;
   
+  
 }
 .tools-used li {
   display: inline-block;
-  margin: 0 0.4rem;
+  margin: 10px 0.4rem;
   padding: 0 25px;
   border-radius: 32px;
   color: #fbfcfe;
@@ -200,8 +201,8 @@ span {
 }
 .project-image {
   height: 400px;
-  width: 750px;
-  margin: 122px;
+  width: 100vh;
+  
   border-radius: 20px;
   box-shadow: -21px 4px 93px 6px rgba(222, 222, 222, 0.25);
   cursor: pointer;
@@ -210,7 +211,7 @@ span {
 .projects {
   display: flex;
   align-items: center;
-  margin-left: 40px;
+  margin: 80px;
 }
 /* footer stylesheet */
 .foot-head {
