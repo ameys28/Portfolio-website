@@ -7,6 +7,7 @@ export default function Header() {
         <a
           href="https://instagram.com/amey_s_28?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=="
           className="logo"
+          target="_blank"
         >
           <strong> AS </strong>
         </a>
@@ -15,19 +16,20 @@ export default function Header() {
         <ul>
           <li>
             <a
-              href="https://in.linkedin.com/in/amey-sawant-156a63223"
+              href="https://drive.google.com/file/d/1uh_Y_bWE9L-Ddp8ao6VQkUSaFWjxc9Cv/view?usp=sharing"
+              target="_blank"
               className="resume"
             >
               <strong> Resume </strong>
             </a>
           </li>
           <li>
-            <a href="https://github.com/ameys28">
+            <a href="https://github.com/ameys28" target="_blank">
               <img src={Github} alt="github icon" className="icon" />
             </a>
           </li>
           <li>
-            <a href="https://in.linkedin.com/in/amey-sawant-156a63223">
+            <a href="https://in.linkedin.com/in/ameys28" target="_blank">
               <img src={Linkedin} alt="linkedin icon" className="icon" />
             </a>
           </li>

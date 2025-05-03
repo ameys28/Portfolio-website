@@ -1,6 +1,24 @@
 
 export default [
   {
+    name: "ChatEase",
+    description:
+      "A real-time chat application built using the MERN Stack",
+    image: "./images/ChatEase.png",
+    website: "https://chatease-c94e.onrender.com/",
+    github: "https://github.com/ameys28/Chat-app.git",
+    tools: ["ReactJS", "ExpressJS", "TailwindCSS", "NodeJS", "MongoDB", "Socket.io"],
+  },
+  {
+    name: "Parkwise",
+    description:
+      "A smart parking web application designed for efficient management of parking in residential buildings.",
+    image: "./images/Parkwise.png",
+    website: "https://parkwise-three.vercel.app/",
+    github: "https://github.com/ameys28/Parkwise.git",
+    tools: ["ReactJS", "TailwindCSS", "Tesseraca.js"],
+  },
+  {
     name: "Traditional Wellness Website",
     description:
       "A website dedicated to promoting traditional wellness practices for modern lifestyles.",
