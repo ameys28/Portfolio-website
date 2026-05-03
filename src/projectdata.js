@@ -1,5 +1,4 @@
-
-export default [
+const projectData = [
   {
     name: "ChatEase",
     description:
@@ -34,7 +33,7 @@ export default [
     image: "./images/weather.png",
     website: "https://weather-app-ameys.vercel.app/",
     github: "https://github.com/ameys28/weather-app.git",
-    tools: ["React JS",  "API", "HTML5", "CSS"],
+    tools: ["React JS", "API", "HTML5", "CSS"],
   },
   {
     name: "Animal Welfare Website",
@@ -62,8 +61,7 @@ export default [
     website: "https://portfolio-website-psi-jet.vercel.app/",
     github: "https://github.com/ameys28/Portfolio-website.git",
     tools: ["React JS", "HTML5", "CSS"],
-    
   },
-  
 ];
 
+export default projectData;
