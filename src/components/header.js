@@ -16,7 +16,7 @@ export default function Header() {
         <ul>
           <li>
             <a
-              href="https://drive.google.com/file/d/1uh_Y_bWE9L-Ddp8ao6VQkUSaFWjxc9Cv/view?usp=sharing"
+              href="https://drive.google.com/file/d/10pUMisMTgBC9m-HWrl6ntuwH-0LhQsB-/view?usp=drive_link"
               target="_blank"
               className="resume"
             >
